@@ -1,4 +1,4 @@
-# Implicit Bias Psychometric Evaluation
+# Evaluating Implicit Bias in LLMs by Attacking From a Psychometric Perspective
 This repository contains the code and data for the paper "[Evaluating Implicit Bias in Large Language Models by Attacking From a Psychometric Perspective](https://arxiv.org/abs/2406.14023)" by [Yuchen Wen](https://wen112358.github.io/), [Keping Bi](https://kepingbi.github.io/), [Wei Chen](https://weichen-cas.github.io/), [Jiafeng Guo](http://www.bigdatalab.ac.cn/gjf/) and [Xueqi Cheng](https://people.ucas.ac.cn/~cxq?language=en).
 
 ## Run evaluations
