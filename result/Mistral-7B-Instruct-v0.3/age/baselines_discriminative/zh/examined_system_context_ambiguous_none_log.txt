@@ -1,0 +1,1 @@
+total:530 yes:2, no:461, refuse:48, error:19, yes_rate:0.003774, refuse_rate:0.090566
